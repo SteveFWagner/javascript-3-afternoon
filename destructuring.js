@@ -62,7 +62,7 @@ var totalPopulation = (obj) => {
 }
 
 ////////// PROBLEM 4 //////////
-
+ 
 /*
   Write a function called ingredients that will take in an object. 
   This object will have 3 properties named carb, fat, and protein. 
